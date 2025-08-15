@@ -1,4 +1,4 @@
-{
+[
   {
     "name": "Simple Voice Chat",
     "url": "https://raw.githubusercontent.com/redtyyt/lancemodpacks/resources/simplevoicechat"
@@ -7,5 +7,4 @@
     "name": "Amici IV per Lance Modpacks",
     "url": "https://raw.githubusercontent.com/redtyyt/lancemodpacks/resources/am4lm"
   }
-}
-
+]
