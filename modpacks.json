@@ -1,24 +1,7 @@
 [
   {
     "name": "Simple Voice Chat",
-    "url": "https://raw.githubusercontent.com/redtyyt/lancemodpacks/resources/simplevoicechat/",
-    "avaiable_platforms": [
-      {
-        "plat": "neoforge",
-        "plat_url": "simplevoicechat_neoforge.zip",
-        "version": "1.21.1"
-      },
-      {
-        "plat": "forge",
-        "plat_url": "simplevoicechat_forge.zip",
-        "version": "1.21.?"
-      },
-      {
-        "plat": "fabric",
-        "plat_url": "simplevoicechat_fabric.zip",
-        "version": "1.21.8"
-      },
-    ]
+    "url": "https://raw.githubusercontent.com/redtyyt/lancemodpacks/resources/simplevoicechat/simplevoicechat_fabric.zip",
   },
   {
     "name": "Amici IV per Lance Modpacks",
