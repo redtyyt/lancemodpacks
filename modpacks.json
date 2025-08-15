@@ -5,15 +5,18 @@
     "avaiable_platforms": [
       {
         "plat": "neoforge",
-        "plat_url": "simplevoicechat_neoforge.zip"
+        "plat_url": "simplevoicechat_neoforge.zip",
+        "version": "1.21.1"
       },
       {
         "plat": "forge",
-        "plat_url": "simplevoicechat_forge.zip"
+        "plat_url": "simplevoicechat_forge.zip",
+        "version": "1.21.?"
       },
       {
         "plat": "fabric",
-        "plat_url": "simplevoicechat_fabric.zip"
+        "plat_url": "simplevoicechat_fabric.zip",
+        "version": "1.21.8"
       },
     ]
   },
