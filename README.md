@@ -1,2 +1,3 @@
-# lancemodpacks
-A new repo for some utilities for my new project (Lance Modpacks) for installing custom modpacks with no problems.
+# Hello! / Ciao!
+[ITA](https://github.com/redtyyt/lancemodpacks/blob/main/ITA%20README.md)
+[ENG](https://github.com/redtyyt/lancemodpacks/blob/main/ENG%20README.md)
